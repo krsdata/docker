@@ -10,3 +10,5 @@ ADD ./public /var/www/html
 #docker build -t laravel-app .
 
 #run docker : docker run -p 80:80 laravel-app
+
+#https://github.com/dimadeush/docker-apache-php-laravel/blob/master/Dockerfile
