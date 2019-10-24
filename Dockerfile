@@ -9,3 +9,4 @@ ADD ./public /var/www/html
 
 #docker build -t laravel-app .
 
+#run docker : docker run -p 80:80 laravel-app
